@@ -1,0 +1,5 @@
+lane_id,origin,destination,transit_mode,freight_cost_per_fcl,max_teu_capacity,required_demand_teu
+LANE_01,Venice,Montreal,Sea_FCL,1200,150,120
+LANE_02,Venice,Montreal,Air_Cargo,4500,40,15
+LANE_03,Shanghai,New_York,Sea_FCL,3100,500,420
+LANE_04,Karachi,Dubai,Sea_LCL,850,200,90
